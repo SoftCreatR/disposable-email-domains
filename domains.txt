@@ -2503,6 +2503,7 @@
 29753.monster
 2990303.ru
 29980011.com
+29980022.com
 29987.monster
 29gbmc.com
 29hoki9.xyz
@@ -40573,6 +40574,7 @@ fake-wegwerf.email
 fake.goodge.ca
 fake.toys
 fake.zerofly.blog
+fakebet.net
 fakecallapp.com
 fakedemail.com
 fakedoctorsnote.net
@@ -43111,6 +43113,7 @@ folkfena.ga
 folkfena.gq
 folkfena.ml
 folkfena.tk
+folkhackstudios.com
 folklofolie.com
 follargratis-confirmed.com
 follargratis-meet-backup.com
