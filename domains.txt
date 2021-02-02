@@ -32705,6 +32705,7 @@ devs.chat
 devself.com
 devset.space
 devskateboards.com
+devt.site
 devuan.online
 devushka-fo.com
 devxtesting.info
@@ -38712,6 +38713,7 @@ epubb.site
 epubc.site
 epubd.site
 epube.site
+epubg.site
 epulat.com
 epvmo.us
 epvzs5.com
@@ -49610,6 +49612,7 @@ hackepic.org
 hacker.onl
 hackerious.com
 hackerndgiveaway.ml
+hackerquest.online
 hackers.onl
 hackersquad.tk
 hackertrap.info
@@ -91872,6 +91875,7 @@ rewardened.com
 rewardenny.com
 rewardents.com
 rewardsforjustice.org
+rewardsradar.net
 rewas-app-lex.com
 reweo.site
 rewet.com
@@ -117662,6 +117666,7 @@ windows8service.info
 windowsdedicatedserversindia.com
 windowshelpme.ru
 windowsicon.info
+windowsiptvplayer.com
 windowsmanageddedicatedserver.com
 windowsmembership.com
 windowsresellerwebhostinginindia.com
