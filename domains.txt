@@ -39194,6 +39194,7 @@ epubl.site
 epubla.site
 epubm.site
 epubn.site
+epubo.site
 epubv.site
 epulat.com
 epvmo.us
@@ -42482,6 +42483,7 @@ filesm.site
 filesn.site
 filespike.com
 filesq.site
+filesr.site
 filest.site
 filesx.site
 filesy.site
@@ -63589,6 +63591,7 @@ kungfuseo.org
 kunghourpa.cf
 kunghourpa.ga
 kunghourpa.tk
+kungsaotylab.com
 kuni-liz.ru
 kunimedesu.com
 kunitzsch-kfz-service.de
@@ -82058,6 +82061,7 @@ oppax.com
 oppein.pl
 oppenheim.cd
 oppobitty-myphen375.com
+oppomoby.com
 opportunityarabic.xyz
 oppositesmeeting.com
 oppostreamingonline.com
@@ -85955,6 +85959,7 @@ pixieapp.com
 pixiv365.com
 pixiv8.com
 pixivtool.com
+pixtest.net
 piyahkc.xyz
 piyamipi.site
 pizhama-hotel.ru
