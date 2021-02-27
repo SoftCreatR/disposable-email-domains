@@ -42720,6 +42720,7 @@ filex.site
 filey.site
 fileza.site
 filezb.site
+fileze.site
 filezilla.info
 filingsportal.com
 filingsservices.com
@@ -84909,6 +84910,7 @@ pdfss.site
 pdfsv.site
 pdfsw.site
 pdfsx.site
+pdfsz.site
 pdft.site
 pdfu.site
 pdfv.site
