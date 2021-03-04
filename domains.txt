@@ -28252,6 +28252,7 @@ codewritinglessons.com
 codg.site
 codh.site
 codic.site
+codif.site
 codingfury.tv
 codingliteracy.com
 codingschool.dev
@@ -92499,6 +92500,7 @@ readsl.site
 readsm.site
 readso.site
 readsp.site
+readsq.site
 readsr.site
 readss.site
 readst.site
