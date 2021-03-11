@@ -35131,6 +35131,7 @@ docsn.site
 docso.site
 docsp.site
 docsq.site
+docsr.site
 docss.site
 docsu.site
 docsv.site
@@ -104352,6 +104353,7 @@ steamcomunity.ru
 steamdiscoveryhomeschool.com
 steamgg.ru
 steamgreenlight.ml
+steamkomails.club
 steamlite.in
 steammap.com
 steampowered.games
@@ -127080,6 +127082,7 @@ zipsr.site
 zipss.site
 zipst.site
 zipsu.site
+zipsv.site
 zipsw.site
 zipsx.site
 zipsz.site
