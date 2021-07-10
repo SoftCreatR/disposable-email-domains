@@ -3223,9 +3223,11 @@ posteo.cl
 posteo.co
 posteo.co.uk
 posteo.com.br
+posteo.com
 posteo.cr
 posteo.cz
 posteo.dk
+posteo.de
 posteo.ee
 posteo.es
 posteo.eu
@@ -3247,6 +3249,7 @@ posteo.me
 posteo.mx
 posteo.my
 posteo.nl
+posteo.net
 posteo.no
 posteo.nz
 posteo.org
