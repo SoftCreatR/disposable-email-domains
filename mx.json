@@ -1,4 +1,5 @@
 [
+    "a.temporary-mail.net",
     "alt.mailsac.com",
     "emailfake.com",
     "generator.email",
@@ -6,10 +7,11 @@
     "mail-temp.com",
     "mail.ese.kr",
     "mail.mailinator.com",
+    "mail.tempmail.io",
     "mail.temporary-mail.net",
-    "a.temporary-mail.net",
     "mailhost.root.sx",
     "mx.discard.email",
+    "mx.emlpro.com",
     "mx.supere.ml",
     "mx.zeroe.ml",
     "mx1.forwardemail.net",
@@ -18,6 +20,5 @@
     "mx37.m1bp.com",
     "smtp.spamex.com",
     "smtp.yopmail.com",
-    "tempm.com",
-    "mail.tempmail.io"
+    "tempm.com"
 ]
