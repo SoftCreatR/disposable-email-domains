@@ -11,6 +11,7 @@
 150ml.com
 15meg4free.com
 163.com
+188.com
 1coolplace.com
 1freeemail.com
 1funplace.com
@@ -300,6 +301,7 @@ blader.com
 blazemail.com
 blazenet.net
 bleib-bei-mir.de
+blu.it
 bluehyppo.com
 bluemail.ch
 bluemail.dk
@@ -752,7 +754,9 @@ example.org
 excite.co.jp
 excite.com
 excite.it
+exclusivemail.co.za
 execs.com
+executive.co.za
 expressasia.com
 extenda.net
 extended.com
@@ -1147,6 +1151,7 @@ home.ro
 home.se
 homeart.com
 homelocator.com
+homemail.co.za
 homemail.com
 homestead.com
 homeworkcentral.com
@@ -1481,11 +1486,14 @@ lovingjesus.com
 lowandslow.com
 luso.pt
 luukku.com
+lycos.at
 lycos.co.uk
 lycos.com
+lycos.de
 lycos.es
 lycos.it
 lycos.ne.jp
+lycos.nl
 lycosemail.com
 lycosmail.com
 m-a-i-l.com
@@ -2947,6 +2955,7 @@ mr-potatohead.com
 mrpost.com
 mscold.com
 msgbox.com
+msn.co.uk
 msn.com
 mttestdriver.com
 mundomail.net
@@ -3376,6 +3385,7 @@ ratt-n-roll.com
 rattle-snake.com
 raubtierbaendiger.de
 ravearena.com
+ravemail.co.za
 ravemail.com
 razormail.com
 rccgmail.org
@@ -3539,6 +3549,7 @@ softcreatr.com
 softcreatr.de
 softcreatr.email
 softhome.net
+sohu.com
 sol.dk
 soldier.hu
 solution4u.com
@@ -3580,6 +3591,7 @@ st-davids.net
 stade.fr
 stalag13.com
 stargateradio.com
+starmail.co.za
 starmail.com
 starmail.org
 starmedia.com
@@ -3746,11 +3758,13 @@ the-whitehouse.net
 the-wild-west.com
 the18th.com
 thecoolguy.com
+thecricket.co.za
 thecriminals.com
 thedoghousemail.com
 thedorm.com
 theend.hu
 theglobe.com
+thegolf.co.za
 thegolfcourse.com
 thegooner.com
 theheadoffice.com
@@ -3760,9 +3774,11 @@ theoffice.net
 theplate.com
 thepokerface.com
 thepostmaster.net
+thepub.co.za
 theraces.com
 theracetrack.com
 therapist.net
+therugby.co.za
 thestreetfighter.com
 theteebox.com
 thewatercooler.com
@@ -3785,6 +3801,7 @@ tiscali.lu
 tiscali.se
 tkcity.com
 toke.com
+tom.com
 toolsource.com
 toothfairy.com
 topchat.com
@@ -4001,6 +4018,7 @@ wonder-net.com
 wongfaye.com
 wooow.it
 worker.com
+workmail.co.za
 workmail.com
 worldemail.com
 worldmailer.com
@@ -4035,6 +4053,10 @@ xoommail.com
 xpressmail.zzn.com
 xsmail.com
 xuno.com
+xwaretech.com
+xwaretech.info
+xwaretech.net
+xwaretech.tk
 xzapmail.com
 ya.ru
 yada-yada.com
